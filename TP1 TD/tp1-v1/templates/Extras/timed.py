@@ -1,6 +1,14 @@
 not_include = set(locals().keys())
 
-from peculiar import es_peculiar, n_esimo_peculiar, cant_peculiares_entre, misma_paridad, alterna_paridad, alterna_paridad_, n_esimo_peculiar_
+from peculiar import (
+    es_peculiar,
+    n_esimo_peculiar,
+    cant_peculiares_entre,
+    misma_paridad,
+    alterna_paridad,
+    alterna_paridad_,
+    n_esimo_peculiar_,
+)
 
 include = set(globals().keys())
 funcs = include.difference(not_include.union({"not_include"}))
@@ -10,9 +18,14 @@ imports = "from peculiar import es_peculiar, n_esimo_peculiar, cant_peculiares_e
 import timeit
 
 for func in funcs:
-	for params in globals()[func].__doc__.split(":"):
-		print(func+params, timeit.timeit(stmt=func+params, setup="from peculiar import "+ func, number=1))
-	print()
+    for params in globals()[func].__doc__.split(":"):
+        print(
+            func + params,
+            timeit.timeit(
+                stmt=func + params, setup="from peculiar import " + func, number=1
+            ),
+        )
+    print()
 
 """
 print("100: while", timeit.timeit(stmt="n_esimo_peculiar(100)", setup=imports, number=1))

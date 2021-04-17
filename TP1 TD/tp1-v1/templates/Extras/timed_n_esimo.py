@@ -1,12 +1,20 @@
 imports = "from peculiar import n_esimo_peculiar, n_esimo_peculiar_"
 
 import timeit
+
 amm = 1000
 proms = [0] * amm
 for n in range(0, 1000):
-	for i in range(0, amm):
-		proms[i] += (itter := timeit.timeit(stmt="n_esimo_peculiar_("+str(i)+")", setup=imports, number=1)/timeit.timeit(stmt="n_esimo_peculiar("+str(i)+")", setup=imports, number=1))/1000
-print(sum(proms)/len(proms))
+    for i in range(0, amm):
+        proms[i] += (
+            itter := timeit.timeit(
+                stmt="n_esimo_peculiar_(" + str(i) + ")", setup=imports, number=1
+            )
+            / timeit.timeit(
+                stmt="n_esimo_peculiar(" + str(i) + ")", setup=imports, number=1
+            )
+        ) / 1000
+print(sum(proms) / len(proms))
 """
 print("Peculiar nº100: while                 ", timeit.timeit(stmt="n_esimo_peculiar(100)", setup=imports, number=1))
 print("Peculiar nº100: segmented (1)         ", timeit.timeit(stmt="n_esimo_peculiar_(100, 1)", setup=imports, number=1))
