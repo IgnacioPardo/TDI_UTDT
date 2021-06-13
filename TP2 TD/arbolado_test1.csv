@@ -1,0 +1,25 @@
+long,lat,tipo_sitio,id_arbol,altura_tot,diametro,inclinacio,id_especie,nombre_fam,nombre_gen,nombre_cie,nombre_com,tipo_folla,origen,codigo_man,barrio,comuna,calle,chapa1,chapa2
+-58.3890587967,-34.6200256156,Árbol,2430,7,20,17,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",1609,0
+-58.389211331700004,-34.6200342718,Árbol,2431,8,33,16,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",1617,0
+-58.389268791400006,-34.6200374616,Árbol,2432,2,3,0,9,Oleáceas,Ligustrum,Ligustrum lucidum,Ligustro,Árbol Latifoliado Perenne,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",1629,0
+-58.389268791400006,-34.6200374616,Árbol,2432,2,3,0,9,Oleáceas,Ligustrum,Ligustrum lucidum,Ligustro,Árbol Latifoliado Perenne,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",1629,0
+-58.3895252334,-34.6200520397,Árbol,2433,9,17,0,7,Aceráceas,Acer,Acer negundo,Arce negundo,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",0,0
+-58.389607770299996,-34.6200566868,Árbol,2434,6,13,14,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",1655,0
+-58.3896652299,-34.620059966599996,Árbol,2435,3,2,0,28,Rosáceas,Prunus,Prunus cerasifera,Ciruelo de jardín,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",1661,0
+-58.3897390443,-34.6200641577,Árbol,2436,17,43,10,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",0,0
+-58.3898303037,-34.6200693508,Árbol,2437,10,24,10,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",1673,0
+-58.389912840600005,-34.6200739977,Árbol,2438,6,17,21,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,"Calvo,Carlos",0,0
+-58.3901634566,-34.6200181701,Árbol,2440,15,29,0,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,Solis,994,0
+-58.3901675583,-34.619941461799996,Árbol,2441,7,27,0,6,Moráceas,Ficus,Ficus benjamina,Ficus,Árbol Latifoliado Perenne,Exótico,14-017,CONSTITUCION,1,Solis,994,0
+-58.3901737657,-34.6198259035,Árbol,2442,5,9,0,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,Solis,0,0
+-58.3901766495,-34.6197701975,Árbol,2443,9,23,10,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,Solis,974,0
+-58.3901804185,-34.619699799,Árbol,2444,3,6,0,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,14-017,CONSTITUCION,1,Solis,966,0
+-58.386754320200005,-34.602542492800005,Árbol,3035,9,18,0,13,Oleáceas,Fraxinus,Fraxinus excelsior,Fresno (Fresno común),Árbol Latifoliado Caducifolio,Exótico,05-032,SAN NICOLAS,1,Uruguay Av.,520,0
+-58.3898694062,-34.5984457309,Árbol,3037,2,4,0,6,Moráceas,Ficus,Ficus benjamina,Ficus,Árbol Latifoliado Perenne,Exótico,07-016,RECOLETA,2,Paraguay,0,0
+-58.4975230782,-34.60108274,Árbol,1002059,6,27,15,107,Salicáceas,Salix,Salix babylonica,Sauce llorón,Árbol Latifoliado Caducifolio,Exótico,81-155,VILLA DEL PARQUE,11,Campana,3234,0
+-58.4862409849,-34.582903668,Árbol,174179,12,60,0,2,Platanaceae,Platanus,Platanus x acerifolia,Plátano,Árbol Latifoliado Caducifolio,Exótico,51-016,VILLA URQUIZA,12,Altolaguirre,1820,1812
+-58.48621058770001,-34.5829423449,Árbol,174180,11,45,0,2,Platanaceae,Platanus,Platanus x acerifolia,Plátano,Árbol Latifoliado Caducifolio,Exótico,51-016,VILLA URQUIZA,12,Altolaguirre,1812,0
+-58.487397232,-34.582485724899996,Árbol,174187,7,22,2,4,Tiliaceas,Tilia,Tilia viridis subsp. x moltkei,Tilo,Árbol Latifoliado Caducifolio,Exótico,51-017,VILLA URQUIZA,12,Echeverria,5659,0
+-58.3948239188,-34.638328312199995,Árbol,33012982,10,52,0,7,Aceráceas,Acer,Acer negundo,Arce negundo,Árbol Latifoliado Caducifolio,Exótico,24-081,PARQUE PATRICIOS,4,Monasterio,0,0
+-58.39485770140001,-34.638227552800004,Árbol,33012983,8,16,7,1,Oleáceas,Fraxinus,Fraxinus pennsylvanica,Fresno americano,Árbol Latifoliado Caducifolio,Exótico,24-081,PARQUE PATRICIOS,4,Monasterio,0,0
+-58.394875194099995,-34.6381752804,Árbol,33012984,11,47,5,7,Aceráceas,Acer,Acer negundo,Arce negundo,Árbol Latifoliado Caducifolio,Exótico,24-081,PARQUE PATRICIOS,4,Monasterio,0,0
